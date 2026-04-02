@@ -38,10 +38,10 @@ UOS：运行main
 程序运行时，如果需要使用浏览器，请使用其他浏览器，不要在播视频的这个浏览器上操作。
 
 # 使用源码运行
-1. 安装依赖：pip install playwright ; pip install playwright-stealth
-2. 安装浏览器：运行bin/installer.py。
-3. 运行bin/main.py
-4. 按照发行版使用步骤3-6执行。
+1.安装依赖：pip install playwright ; pip install playwright-stealth
+2.安装浏览器：运行bin/installer.py。
+3.运行bin/main.py
+4.按照发行版使用步骤3-6执行。
 
 # 已知问题  
 由于playwright自身限制，浏览器视图大小无法调整，暂无可靠的解决方案。  
